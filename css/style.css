@@ -1931,7 +1931,6 @@ h5 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  overflow: hidden;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -4921,12 +4920,8 @@ html.w-mod-js [data-ix="text-0-2"] {
     font-size: 15vh;
     line-height: 14vh;
   }
-  .l-item {
-    width: 112vh;
-  }
-  .l-inner {
-    width: 41vh;
-  }
+ 
+ 
   .h-block.hb-1 {
     bottom: 3.4vh;
   }
@@ -5039,12 +5034,10 @@ html.w-mod-js [data-ix="text-0-2"] {
     bottom: 3.5vw;
   }
   .text-wrap {
-    width: 41vh;
     height: 13vh;
   }
   .text-fill,
   .text-stroke {
-    width: 41vh;
     height: 13vh;
     padding-left: 1vh;
     font-size: 15vh;
@@ -5218,9 +5211,7 @@ html.w-mod-js [data-ix="text-0-2"] {
   .l-item {
     width: auto;
   }
-  .l-inner {
-    width: 25vw;
-  }
+
   .nav {
     padding: 5vw;
   }
@@ -5369,12 +5360,10 @@ html.w-mod-js [data-ix="text-0-2"] {
     display: none;
   }
   .text-wrap {
-    width: 25vw;
     height: 8vw;
   }
   .text-fill,
   .text-stroke {
-    width: 25vw;
     height: 8vw;
     font-size: 9vw;
     line-height: 8vw;
@@ -5993,9 +5982,7 @@ html.w-mod-js [data-ix="text-0-2"] {
     font-size: 10vw;
     line-height: 11vw;
   }
-  .l-inner {
-    width: 28vw;
-  }
+
   .nav {
     padding: 8vw 7vw 6vw 9vw;
   }
@@ -6226,12 +6213,10 @@ html.w-mod-js [data-ix="text-0-2"] {
     line-height: 3vw;
   }
   .text-wrap {
-    width: 28vw;
     height: 11vw;
   }
   .text-fill,
   .text-stroke {
-    width: 28vw;
     height: 11vw;
     font-size: 10vw;
     line-height: 11vw;
